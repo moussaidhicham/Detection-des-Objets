@@ -1,4 +1,5 @@
 Détection et Segmentation d'Images
+
 Ce projet vise à développer une application interactive permettant d'effectuer des tâches de détection et de segmentation d'images en utilisant deux algorithmes puissants et complémentaires :
 
 Fonctionnalités principales :
